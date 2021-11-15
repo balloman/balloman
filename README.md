@@ -4,7 +4,7 @@ Currently a junior at the University of Alabama in Huntsville
 Currently at Abaco Systems  
 Former Amazon intern  
 
-[![wakatime](https://wakatime.com/badge/user/fcb14e7c-740b-4937-b13a-0bca55610c14.svg)](https://wakatime.com/@fcb14e7c-740b-4937-b13a-0bca55610c14) <- I have more time than that, but this is since I started really tracking in Aug. 2021
+[![wakatime](https://wakatime.com/badge/user/fcb14e7c-740b-4937-b13a-0bca55610c14.svg)](https://wakatime.com/@fcb14e7c-740b-4937-b13a-0bca55610c14)
 
 <!--
 **balloman/balloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
