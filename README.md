@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋🏿
 
 Currently a junior at the University of Alabama in Huntsville  
 Currently at Abaco Systems  
