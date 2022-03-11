@@ -5,7 +5,7 @@ Currently at Abaco Systems
 Former Amazon intern  
 
 
-Time spent coding since Jun. 2021
+Time spent coding (I like watching number go up)  
 [![wakatime](https://wakatime.com/badge/user/fcb14e7c-740b-4937-b13a-0bca55610c14.svg)](https://wakatime.com/@fcb14e7c-740b-4937-b13a-0bca55610c14)
 
 <!--
