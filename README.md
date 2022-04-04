@@ -4,6 +4,7 @@ Currently a junior at the University of Alabama in Huntsville
 Currently at Abaco Systems  
 Former Amazon intern  
 
+Check out my LinkedIn! <a href="https://www.linkedin.com/in/bernard-a-842555106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bernard-a-842555106/" height="30" width="30" /></a>
 
 Time spent coding (I like watching number go up)  
 [![wakatime](https://wakatime.com/badge/user/fcb14e7c-740b-4937-b13a-0bca55610c14.svg)](https://wakatime.com/@fcb14e7c-740b-4937-b13a-0bca55610c14)
