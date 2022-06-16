@@ -1,6 +1,6 @@
 ### Hi there 👋🏿
 
-Currently a junior at the University of Alabama in Huntsville  
+Currently a senior at the University of Alabama in Huntsville  
 Currently at Amazon as an intern on the Astro team. 
 Formerly at Abaco Systems
 
