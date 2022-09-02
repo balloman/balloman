@@ -1,8 +1,8 @@
 ### Hi there 👋🏿
 
 Currently a senior at the University of Alabama in Huntsville  
-Currently at Amazon as an intern on the Astro team. 
-Formerly at Abaco Systems
+Currently at Siemens as a Dev-Ops Engineer  
+Formerly an intern at Amazon on the Astro team. 
 
 Check out my LinkedIn! <a href="https://www.linkedin.com/in/bernard-a-842555106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bernard-a-842555106/" height="30" width="30" /></a>
 
